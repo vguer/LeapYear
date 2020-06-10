@@ -12,7 +12,7 @@ $(document).ready(function() {
       $(".not").text("");
     } 
     
-    $("#result").text(result);
+    $("#result").show();
   });
 });
 
